@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-master !1
-=======
-tersun1
->>>>>>> tersun/party121
